@@ -1,4 +1,4 @@
-# widget_inheritance
+# [widget inheritance](https://medium.com/flutter-community/flutter-level-up-widget-inheritance-6761899f3974)
 
 ## 👔 Base Widget
 ```dart
